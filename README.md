@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Name;I+am+a+Developer;I+Love+Coding" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
+  <h3 align="center">My Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,cs,cpp,python,html,css,git" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nithinnkashyapp&show_icons=true&theme=tokyonight" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkashyapp&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
+</div>
+
