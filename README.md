@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-Hey there, I am Nithin, an passionate developer. I am working on my tech stack, learning new programming languages. To contact you the socials mentioned below.<br>
+Hey there, I am Nithin, a developer. I am working on my tech stack, learning new programming languages. To contact you the socials mentioned below.<br>
 If I don't know something or make a mistake, please help me out.
 
 
